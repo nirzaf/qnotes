@@ -11,7 +11,7 @@
     "test": "pnpm build && node --test test/*.test.mjs"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.30.0",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "@qnotes/api-client": "workspace:*",
     "@qnotes/shared": "workspace:*",
     "zod": "^4.5.4"
