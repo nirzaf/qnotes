@@ -28,7 +28,7 @@
     "dom-to-image-more": "3.10.2",
     "dompurify": "3.4.14",
     "lucide-react": "1.41.0",
-    "markdown-it": "15.0.1",
+    "markdown-it": "15.0.3",
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "tailwind-merge": "3.6.0"
